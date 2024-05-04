@@ -1,0 +1,33 @@
+body{
+    background: #7AB2B2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    gap: 50px;
+}
+.number{
+    font-size: 50px;
+    font-weight: 700;
+    color: azure;
+}
+.remove{
+    font-size: 60px;
+    width: 80px;
+    font-weight: 700;
+    background:#CDE8E5;
+    box-shadow: 0px 9px 7px #555555;
+    border-radius: 10px;
+}
+.add{
+    font-size: 60px;
+    width: 80px;
+    font-weight: 700;
+    background: #CDE8E5;
+    box-shadow: 0px 9px 7px #555555;
+    border-radius: 10px
+
+}
+button:hover{
+    background:#EEF7FF;
+}
